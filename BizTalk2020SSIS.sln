@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BizTalk2020SSIS", "BizTalk2020SSIS\BizTalk2020SSIS.dtproj", "{8629113D-17D1-4C39-B68B-C60459E32446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8629113D-17D1-4C39-B68B-C60459E32446}.Development|Default.ActiveCfg = Development
+		{8629113D-17D1-4C39-B68B-C60459E32446}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226C72DC-5868-4A12-BEC4-5EABC39FB0A5}
+	EndGlobalSection
+EndGlobal
